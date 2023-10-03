@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tudicodings
+- 👀 I’m interested in different type of programing languages.
+- 🌱 I’m currently studying at UBB computer science.
+- 📫 How to reach me : instagram by @tudor.apavaloaie
