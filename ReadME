@@ -1,12 +1,1 @@
-# Prezentare a Aplicației de Administrare a Închirierilor de Mașini
- ** Aplicația noastră de administrare a închirierilor de mașini este concepută pentru a eficientiza gestionarea flotei și a rezervărilor, asigurând un proces simplu și transparent pentru utilizatori. **
 
-# Funcționalități Cheie:
-
-** Gestionarea Mașinilor : ** Aplicația permite adăugarea, vizualizarea și administrarea detaliilor fiecărei mașini din flotă, incluzând un ID unic, marca și modelul.
-
-** Administrarea Închirierilor: ** Oferă posibilitatea de a înregistra și urmări închirierile mașinilor. Fiecare închiriere este asociată cu o singură mașină și include un ID unic, mașina aferentă, data de început și data de sfârșit a perioadei de închiriere.
-
-** Verificare Suprapunere Închirieri: ** Sistemul asigură că perioadele de închiriere pentru o anumită mașină nu se suprapun, prevenind astfel rezervările conflictuale și garantând o alocare corectă și eficientă a vehiculelor.
-
-** Aplicația este dezvoltată în Java, garantând performanță și scalabilitate, oferind o soluție robustă pentru companiile care gestionează flote auto și doresc să optimizeze operațiunile de închiriere. **
